@@ -1,0 +1,27 @@
+color in use:
+    --primary-color: #82c444;
+    --primary2-color: #3cd89d;
+    --secondary-color: linear-gradient(130deg, #3cd89d 0%, #82c444 100%);
+    --font-color: #1e1e1e;
+    --dark-bg-color: #1e1e1e;
+    --white: #fff;
+    --black: #000;
+
+fonts in use:
+    font-family: montserrat;
+
+background color:
+    background-color: #3cd89d1a;
+    background-color: #cbebbf;
+
+website core based on bootstrap 
+language use in website are:
+    html, css, css3, bootstrap, mediaquery, jquery, javascript
+
+icons taken from: fontawosome
+icons taken from: flaticon
+icon attach with offline link there in no online contant for icons
+
+image in use: from original website
+image editing in: photoshop and illustrator
+original website link: https://www.xcodethemes.in/
